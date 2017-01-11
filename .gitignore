@@ -26,8 +26,5 @@
 /.idea/
 .idea/
 
-# Ignore apikey.rb
-apikey.rb
-
 # Ignore client_secret.json
 client_secret.json
